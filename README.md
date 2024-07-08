@@ -1,6 +1,6 @@
 <img align="center" width="100%" src="https://i.gifer.com/J3u6.gif">
 <h1 align="center">Hello there</h1>
-<h3 align="center">Someone who does codes</h3>
+<h3 align="center">Someone who codes</h3>
 <img align=“right” alt=“Nordic lights” width= “400” src=“https://j.gifs.com/737xgr.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeti201&label=Profile%20views&color=0e75b6&style=flat" alt="zeti201" /> </p>
