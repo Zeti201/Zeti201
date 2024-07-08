@@ -1,19 +1,19 @@
 <img align="center" width="100%" src="https://i.gifer.com/J3u6.gif">
-<h1 align="center">Hello there, I'm Zeti</h1>
+<h1 align="center">Hello there</h1>
 <h3 align="center">Someone who does codes</h3>
 <img align=“right” alt=“Nordic lights” width= “400” src=“https://j.gifs.com/737xgr.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeti201&label=Profile%20views&color=0e75b6&style=flat" alt="zeti201" /> </p>
 
-- 🔭 I’m currently working on **portfolio**
+- 🔭 I’m currently working on **Websites**
 
 - 🌱 I’m currently learning **c#**
 
-- 👯 I’m looking to collaborate on **unity projects**
+- 👯 I’m looking to collaborate on **Python based projects**
 
 - 🤝 I’m looking for help with **c++ in general**
 
-- 💬 Ask me about **Python, JS, CSS, web development**
+- 💬 Ask me about **Python, JS, CSS, HTML and other web development stuffs**
 
 - 📫 How to reach me: **algorithms@gmx.com**
 
